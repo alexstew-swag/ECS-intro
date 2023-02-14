@@ -4,6 +4,11 @@ body {
 	margin: 0 auto;
 }
 .homePage {
+	     font: 100%/1.4 Gill Sans, sans-serif, Noto Sans, sans-serif;
+     background-color: #FFFFFF;
+     margin: 0;
+     padding: 0;
+     color: #000;
 	background: #FFECB8;
 }
 .container {
